@@ -3,6 +3,10 @@
 _EVM-Dex **Swap-Liquidity-Staking** Platform_ is a decentralized exchange (DEX) platform built to support token swaps, staking, and liquidity management across all EVM-compatible blockchains. This project provides a toolkit for developers to implement and customize their own decentralized exchange solutions with integrated features like staking contracts and liquidity pool management.
 Also can intergrate with other dex swap like wolfswap and uniswap so that provide users the best swap.
 
+[![Telegram](https://img.shields.io/badge/Telegram-@toptrendev_641-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/toptrendev_641)
+[![Twitter](https://img.shields.io/badge/Twitter-@toptrendev-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/toptrendev)
+[![Discord](https://img.shields.io/badge/Discord-toptrendev-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/648385188774019072)
+
 
 ![Untitled](https://github.com/user-attachments/assets/7d7a3a5b-e032-46e1-8978-3a24efc39ba7)
 
@@ -32,9 +36,3 @@ npm install
 
 Frontend is opensource.
 To get more functions for frontend, swap & liquidity & staking smart contracts and liquidity-admin-managemant site, Feel free to contact Me!
-
-# 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
-
-
