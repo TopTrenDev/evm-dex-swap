@@ -29,8 +29,8 @@ This is just Frontend code.
 To get started with EVM-Dex-Swap, clone this repository and install dependencies.
 
 ```bash
-git clone https://github.com/yourusername/EVM-dex-swap.git
-cd EVM-dex-swap
+git clone https://github.com/TopTrenDev/evm-dex-swap.git
+cd evm-dex-swap
 npm install
 ```
 
